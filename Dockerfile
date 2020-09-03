@@ -60,9 +60,9 @@ LABEL org.opencontainers.image.authors="Anton Bakker anton.bakker@kadaster.nl" \
       org.opencontainers.image.created=$BUILD_DATE \
       org.opencontainers.image.title="csw-updater" \
       org.opencontainers.image.description="CLI tool for CSW CRUD operations" \
-      org.opencontainers.image.url="https://github.com/PDOK/csw-updater" \
-      org.opencontainers.image.vendor="PDOK" \
-      org.opencontainers.image.source="https://github.com/PDOK/csw-updater" \
+      org.opencontainers.image.url="https://github.com/arbakker/csw-updater" \
+      org.opencontainers.image.vendor="" \
+      org.opencontainers.image.source="https://github.com/arbakker/csw-updater" \
       org.opencontainers.image.revision=$GIT_COMMIT_HASH \
       org.opencontainers.image.version=$VERSION
 
